@@ -1,4 +1,4 @@
-- Nickname: Foxie (Eddie)
+- Nickname: Foxie
 - Gametag: EdianiaK
 - Location: Czechia
 <br>
