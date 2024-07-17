@@ -1,13 +1,14 @@
-<h2 align="center">"Stay proud and unique!"</h2>
-
-###
-
-<h3 align="center">Nickname: Foxie<br>Gametag: EdianiaK<br>Location: Czechia</h3>
-
-###
-
+<h3 align="center">Hi, I'm F_TEK and welcome to</h3>
+<h1 align="center">MY GITHUB PROFILE</h1>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FTEdianiaK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=(mostly)%20Coding%20in:" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=FTEdianiaK&hide_title=true&include_all_commits=true&hide=prs,contribs&hide_rank=true&card_width=300&show_icons=true&theme=aura&hide_border=true" />
 </div>
-
-###
+<h1></h1>
+<h3 align="center">"Stay proud and unique!"</h3>
+<h4 align="center">. . .<br>Nickname: Foxie<br>Gametag: EdianiaK<br>Location: Czechia<br>˙ ˙ ˙</h4>
+<h1></h1>
+<h3 align="center">I (mostly) code in:</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FTEdianiaK&hide_title=true&layout=donut&card_width=300&langs_count=6&theme=aura&hide_border=true" />
+</div>
+<h1></h1>
