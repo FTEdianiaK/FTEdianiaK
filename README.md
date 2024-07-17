@@ -1,18 +1,8 @@
-<h1 align="center">F_TEK</h1>
-
-###
-
-<div align="center">
-  <img height="400" src="https://f-tek.neocities.org/assets/images/f1.jpg"  />
-</div>
-
-###
-
 <h2 align="center">"Stay proud and unique!"</h2>
 
 ###
 
-<p align="center">Nickname: Foxie<br>Gametag: EdianiaK<br>Location: Czechia</p>
+<h3 align="center">Nickname: Foxie<br>Gametag: EdianiaK<br>Location: Czechia</h3>
 
 ###
 
