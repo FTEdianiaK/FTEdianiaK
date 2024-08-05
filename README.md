@@ -26,13 +26,10 @@
   <table>
     <tr>
       <td><a href="https://github.com/FTEdianiaK/timetable-widget"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ftedianiak&repo=timetable-widget&card_width=300&theme=transparent&hide_border=true"></a></td>
-      <td><a href="https://github.com/FTEdianiaK/digios"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ftedianiak&repo=digios&card_width=300&theme=transparent&hide_border=true"></a></td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/FTEdianiaK/breathtaking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ftedianiak&repo=breathtaking&card_width=300&theme=transparent&hide_border=true"></a></td>
-      <td><a href="https://github.com/FTEdianiaK/startup-complete"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ftedianiak&repo=startup-complete&card_width=300&theme=transparent&hide_border=true"></a></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/FTEdianiaK/startup-complete"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ftedianiak&repo=startup-complete&card_width=300&theme=transparent&hide_border=true"></a></td>
       <td><a href="https://github.com/FTEdianiaK/library-parrotex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ftedianiak&repo=library-parrotex&card_width=300&theme=transparent&hide_border=true"></a></td>
     </tr>
   </table>
@@ -48,6 +45,7 @@
   <h3>> Archived projects _</h3>
   <table>
     <tr>
+      <td><a href="https://github.com/FTEdianiaK/digios"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ftedianiak&repo=digios&card_width=300&theme=transparent&hide_border=true"></a></td>
       <td><a href="https://github.com/FTEdianiaK/pixel-discord-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ftedianiak&repo=pixel-discord-bot&card_width=300&theme=transparent&hide_border=true"></a></td>
     </tr>
   </table>
