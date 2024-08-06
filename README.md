@@ -61,4 +61,10 @@
       <td><a href="https://github.com/FTEdianiaK/Paranormal-Games"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ftedianiak&repo=Paranormal-Games&card_width=300&theme=transparent&hide_border=true"></a></td>
     </tr>
   </table>
+  <h3>Released modpacks ...</h3>
+  <table>
+    <tr>
+      <td><a href="https://github.com/FTEdianiaK/chocolate-bars"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ftedianiak&repo=chocolate-bars&card_width=300&theme=transparent&hide_border=true"></a></td>
+    </tr>
+  </table>
 </div>
