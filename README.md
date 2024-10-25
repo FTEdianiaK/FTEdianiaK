@@ -64,7 +64,7 @@
   <h3>Released modpacks ...</h3>
   <table>
     <tr>
-      <td><a href="https://github.com/FTEdianiaK/chocolate-bars"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ftedianiak&repo=the-fox-revolution&card_width=300&theme=transparent&hide_border=true"></a></td>
+      <td><a href="https://github.com/FTEdianiaK/the-fox-revolution"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ftedianiak&repo=the-fox-revolution&card_width=300&theme=transparent&hide_border=true"></a></td>
       <td><a href="https://github.com/FTEdianiaK/chocolate-bars"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ftedianiak&repo=chocolate-bars&card_width=300&theme=transparent&hide_border=true"></a></td>
     </tr>
   </table>
