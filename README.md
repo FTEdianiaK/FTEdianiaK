@@ -3,7 +3,6 @@
   <h1>MY GITHUB PROFILE</h1>
   <h3>"Stay proud and unique!"</h3>
   <h4>. . .<br>Nickname: Foxie<br>Gametag: EdianiaK<br>Location: Czechia<br>˙ ˙ ˙</h4>
-  <p><a href="https://github.com/FTEdianiaK/breathtaking-items">Things my GitHub wouldn't exist without.</a></p>
   <h1></h1>
   <table>
     <tr>
