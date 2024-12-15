@@ -36,7 +36,6 @@
   <h3>> FIT CTU projects _</h3>
   <table>
     <tr>
-      <td><a href="https://github.com/FTEdianiaK/fitctu-llama-tests"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ftedianiak&repo=fitctu-llama-tests&card_width=300&theme=transparent&hide_border=true"></a></td>
       <td><a href="https://github.com/FTEdianiaK/catppuccin-fitctu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ftedianiak&repo=catppuccin-fitctu&card_width=300&theme=transparent&hide_border=true"></a></td>
     </tr>
   </table>
